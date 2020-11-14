@@ -23,7 +23,7 @@ div.fragment, pre.fragment {
 }
 
 a, a:link, a:visited {
-	color: #67d8ef !important;
+	color: #ff6600 !important;
 }
 
 .highlighted {
@@ -89,7 +89,7 @@ a.SelectItem:hover {
 #MSearchResultsWindow {
 	border: 1px solid #000000;
 	background: #32363d;
-	color: #67d8ef !important;;
+	color: #ff6600 !important;;
 }
 
 /*********************************************/
@@ -253,7 +253,7 @@ span.keyword {
 }
 
 span.keywordtype {
-	color: #67cfc1;
+	color: #ffa500;
 	font-style: italic;
 }
 
@@ -321,7 +321,7 @@ span.lineno a {
 }
 
 h2.groupheader {
-	color: #67d8ef;
+	color: #ff6600;
 }
 
 /*********************************************/
@@ -420,5 +420,5 @@ td.memItemLeft, td.memItemRight {
 /*********************************************/
 h1.glow, h2.glow, h3.glow,
 h4.glow, h5.glow, h6.glow {
-	text-shadow: 0 0 15px #67d8ef;
+	text-shadow: 0 0 15px #ff6600;
 }
