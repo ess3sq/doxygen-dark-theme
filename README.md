@@ -1,3 +1,5 @@
+> **About this fork**: Just slightly altering the `css` stylesheet attributes to change the text color a bit.
+
 # Doxygen dark theme
 
 Theme implements dark colors implementation for doxygen documentation generator.
